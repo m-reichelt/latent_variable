@@ -1,0 +1,5 @@
+anywidget==0.11.0
+ipykernel==7.3.0
+matplotlib==3.11.1
+ngsolve==6.2.2606
+numpy==2.2.6
